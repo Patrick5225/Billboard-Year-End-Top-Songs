@@ -20,3 +20,9 @@ But does Billboard really rank their charts based on measures such as popularity
 `Spotify Id Extraction.ipynb` Uses Spotify's API to find Spotify Id for each song in data</br>
 `Spotify Audio Features Extraction.ipynb` Uses Spotify's API to extract audio features of each song</br>
 `spotify_complete.csv` Contains all the completed, cleaned data
+
+## EDA Highlights
+<img src="/images/popular_songs.png" width="600" height="300">
+<img src="/images/popularity_year.png" width="1000" height="300">
+<img src="/images/artists.png" width="1000" height="300">
+<img src="/images/heatmaps.png" width="1000" height="300">
